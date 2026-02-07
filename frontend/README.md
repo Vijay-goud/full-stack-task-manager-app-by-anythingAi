@@ -1,8 +1,3 @@
-
-## How to Run Locally
-
-### Backend
-```bash
-cd backend-assignment
+cd frontend
 npm install
 npm start
